@@ -2,3 +2,10 @@
 Discord Acc/Server Nuker
 join : https://discord.gg/h5xZrZ77Ss For help
 maker : ✟$𝖞𝖓𝖈𝖟✟#3449
+
+
+
+Still making it.. Not Done..
+
+
+
