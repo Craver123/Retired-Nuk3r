@@ -60,7 +60,7 @@ from argparse import ArgumentParser, RawDescriptionHelpFormatter
 from time import monotonic
 import requests
 from colorama import init
-# Retired was proudly coded by Guilhem  .
+# Retired was proudly coded by ✟$𝖞𝖓𝖈𝖟✟#3449  .
 # Copyright (c) 2021 
 # Retired Nuker under the GNU General Public Liscense v2 (1991).
 os.system('cls')
