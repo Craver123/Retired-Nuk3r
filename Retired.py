@@ -60,7 +60,7 @@ from argparse import ArgumentParser, RawDescriptionHelpFormatter
 from time import monotonic
 import requests
 from colorama import init
-# Retired was proudly coded by ✟$𝖞𝖓𝖈𝖟✟#3449  .
+# Retired was proudly coded by Guilhem  .
 # Copyright (c) 2021 
 # Retired Nuker under the GNU General Public Liscense v2 (1991).
 os.system('cls')
@@ -101,11 +101,15 @@ print(Colorate.Horizontal(Colors.green_to_white, f"[4] Seizure Mode"))
 print("")
 sendType = int(Write.Input("[Choose Number]\n>> ", Colors.purple_to_blue, interval=0.0001))
 if sendType == (1):
+    sendType = int(Write.Input("Token >>", Colors.purple_to_blue, interval=0.0001))
     print(Colorate.Horizontal(Colors.green_to_white, f"[+] Not Done"))
 elif sendType == (2):
+    sendType = int(Write.Input("Token >>", Colors.purple_to_blue, interval=0.0001))
     print(Colorate.Horizontal(Colors.green_to_white, f"[+] Not Done"))
 elif sendType == (3):
+    sendType = int(Write.Input("Token >>", Colors.purple_to_blue, interval=0.0001))
     print(Colorate.Horizontal(Colors.green_to_white, f"[+] Not Done"))
 elif sendType == (4):
+    sendType = int(Write.Input("Token >>", Colors.purple_to_blue, interval=0.0001))
     print(Colorate.Horizontal(Colors.green_to_white, f"[+] Not Done"))
 time.sleep(3)
